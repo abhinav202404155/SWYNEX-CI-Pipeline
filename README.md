@@ -56,6 +56,7 @@ pyproject.toml         package, pytest and ruff config
   easier to read when something breaks.
 - A test matrix is cheap and showed me which Python versions the code really works on.
 - Caching pip downloads (`cache: pip`) noticeably cut the run time.
+- Learned how to set up my first GitHub Actions workflow.
 
 ## Author
 
